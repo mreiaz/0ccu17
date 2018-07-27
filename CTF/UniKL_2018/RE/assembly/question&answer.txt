@@ -1,0 +1,22 @@
+Question (150 points)
+
+mov rbx, 0x10E1154879952446
+sub rbx, 0x4D24531547263458
+mov rdx, 0x1419517532854956
+mov rax, 0x98
+mov rcx, 0x0
+mov rbx, 0x6261436100000000
+mul rcx
+sub rdx, rbx
+mov rcx, rdx
+add rbx, 0x76616B48
+add rbx, rax
+
+Get the flag at https://pastebin.com/{value of rbx in string}
+You may use this to help you.
+https://goo.gl/scgmbw
+
+Flag:
+https://pastebin.com/HkavaCab
+ctfunikl18{345y_4553mb1y}
+

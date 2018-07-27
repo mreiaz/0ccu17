@@ -1,0 +1,11 @@
+Cryptography:  150
+
+Question:
+
+Mr Blow received an email from his crush, requesting him to share his info of Bitcoin wallet with her. 
+Realising that his crush knew about his most common password , he thought that it is fun to play around with her.
+
+JAOg9rfonN3d+h8a30VM8h9D/2FESdF3Zy032RoU0w6kQ2l5VzcD2UvYLAWReaGk
+
+Flag:
+ctfunikl18{my_w4ll3t_h45_n0_m0n3y}

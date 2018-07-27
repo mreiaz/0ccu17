@@ -1,0 +1,4 @@
+Question : (150 points)
+We got this installer, do we just install it??? your call
+
+answer : ctfunikl18{read_the_license}

@@ -1,0 +1,6 @@
+Question (200 points)
+
+Basyir is trying to login the website to manage his account, but failed to do so. It is known that the password is url encoded, so he will need to decode it back to ASCII. Would you help him to follow the stream? 
+
+Hint: http
+Flag: ctfunikl18{mahaldopakaini}
