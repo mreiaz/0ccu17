@@ -1,8 +1,0 @@
-Question:(200 points)
-Can you find the carrot(flag) that have been hide by bunny?
-
-Hint:
-The carrot have been cut by two, and the two of it have been hide and cannot be see by naked eye.
-
-Flag:
-UNIKLCTF{BuNNy_H@v3_F1ND_tH3_C@rr0t}

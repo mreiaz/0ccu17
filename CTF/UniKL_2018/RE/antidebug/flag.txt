@@ -1,3 +1,0 @@
-flag:iTSNoTsoHArDehhh
-point:350
-category:binary

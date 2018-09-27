@@ -1,3 +1,0 @@
-flag:7h15_15_7o0_345y_f0r_y0u
-point:200
-category:binary

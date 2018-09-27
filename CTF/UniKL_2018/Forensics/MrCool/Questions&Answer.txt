@@ -1,6 +1,0 @@
-Question: (150 points)
-
-Mr. Robowt needs your help! How cool you are in helping him?
-
-Flag:
-ctfunikl18{y0u_c0ol_bro}
